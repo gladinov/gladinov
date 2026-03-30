@@ -1,16 +1,21 @@
-## Hi there 👋
+## Hi, I'm Mikhail — Go Backend Developer
 
-<!--
-**gladinov/gladinov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build backend services in Go with a focus on microservices and concurrent processing.
 
-Here are some ideas to get you started:
+- Designed and implemented a microservice system (5 services)
+- Work with PostgreSQL, Redis, Docker
+- Focus on performance, concurrency and clean architecture
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Tech Stack
+
+**Backend:**
+Go, REST, gRPC
+
+**Databases:**
+PostgreSQL, Redis
+
+**Infrastructure:**
+Docker, Docker Compose
+
+**Other:**
+Git, Linux, Concurrency (goroutines, channels)
